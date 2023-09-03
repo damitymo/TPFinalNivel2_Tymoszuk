@@ -15,6 +15,12 @@ namespace Catalogo_de_Comercio
         public Form1()
         {
             InitializeComponent();
+            //prueba
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
