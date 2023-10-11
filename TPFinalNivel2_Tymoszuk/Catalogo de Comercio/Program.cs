@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Catalogo_de_Comercio
 {
-    internal static class Program
+    internal static class Progrm
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
